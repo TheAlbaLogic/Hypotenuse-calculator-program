@@ -1,0 +1,14 @@
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\bin\Debug\net8.0\Hypotenuse calculator program.exe
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\bin\Debug\net8.0\Hypotenuse calculator program.deps.json
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\bin\Debug\net8.0\Hypotenuse calculator program.runtimeconfig.json
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\bin\Debug\net8.0\Hypotenuse calculator program.dll
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\bin\Debug\net8.0\Hypotenuse calculator program.pdb
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\obj\Debug\net8.0\Hypotenuse calculator program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\obj\Debug\net8.0\Hypotenuse calculator program.AssemblyInfoInputs.cache
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\obj\Debug\net8.0\Hypotenuse calculator program.AssemblyInfo.cs
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\obj\Debug\net8.0\Hypotenuse calculator program.csproj.CoreCompileInputs.cache
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\obj\Debug\net8.0\Hypotenuse calculator program.dll
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\obj\Debug\net8.0\refint\Hypotenuse calculator program.dll
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\obj\Debug\net8.0\Hypotenuse calculator program.pdb
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\obj\Debug\net8.0\Hypotenuse calculator program.genruntimeconfig.cache
+C:\Users\mason\source\repos\Hypotenuse calculator program\Hypotenuse calculator program\obj\Debug\net8.0\ref\Hypotenuse calculator program.dll
